@@ -1,3 +1,6 @@
+# 💾 Byte binge roadmap
+#### Open Computer Science courses and books
+---
 #### Computer Networking
 - [FREE CCNA 200-301 // Complete Course // NetworkChuck 2023 + You suck at subnetting](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P) 
 - [The Bits and Bytes of computer networking](https://www.coursera.org/learn/computer-networking)
