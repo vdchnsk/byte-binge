@@ -12,7 +12,7 @@
 #### Operating Systems
 - [Berkeley CS162 - Operating Systems and system programming](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)
 - [University Of Virginia - Operating Systems in Rust](https://rust-class.org/index.html)
-- [Philipp Oppermann's blog on Writing and OS in Rust]([Writing an OS in Rust](https://os.phil-opp.com/ "Home"))
+- [Philipp Oppermann's blog on Writing and OS in Rust](https://os.phil-opp.com/ "Home")
 - [**Stepik** - Операционные системы](https://stepik.org/course/1780/promo)
 
 #### Programming languages theory
@@ -32,7 +32,7 @@ Books:
 - Writing a compiler in go (2st book)
 - [Crafting Interpreters](https://www.amazon.nl/Robert-Nystrom/dp/0990582930/ref=pd_rhf_d_dp_s_pd_crcd_sccl_1_1/258-5768044-3845304?pd_rd_w=jSAnv&content-id=amzn1.sym.90244661-a8e2-4054-b831-3f1fe56474a8&pf_rd_p=90244661-a8e2-4054-b831-3f1fe56474a8&pf_rd_r=N5FQ4V3GZYFKJGYXFMFA&pd_rd_wg=TDsOr&pd_rd_r=7168620e-0671-430e-bd31-2689353f9c0c&pd_rd_i=0990582930&psc=1)
 
-#### **Distributed Systems**
+#### Distributed Systems
 - [**MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos) 
 
 #### Computer Graphics
@@ -45,11 +45,11 @@ Books:
 - [**CSC** - Кирилл Кринки](https://youtube.com/playlist?list=PL-_cKNuVAYAV5FX84ZRvFN2ICTuQWBOJB)
 - [**Stepik** -Введение в архитектуру ЭВМ. Элементы операционных систем.](https://stepik.org/course/253/promo)
 
-#### Software Architecture
+#### Software Architecture / System design
 - [Fundamentals of Software Architecture (Book)](https://www.amazon.nl/-/en/Neal-Ford/dp/1492043451/ref=d_pd_sim_sccl_3_17/258-5768044-3845304?pd_rd_w=AKS9G&content-id=amzn1.sym.b72f5ef5-97e7-422b-928d-efaff6a05c67&pf_rd_p=b72f5ef5-97e7-422b-928d-efaff6a05c67&pf_rd_r=AC3X2B12QAYTGE32HQCK&pd_rd_wg=c7Jr7&pd_rd_r=1d45968e-d1a3-45bb-a5fa-f35a054f199f&pd_rd_i=1492043451&psc=1)
 - [Software Architecture: The Hard Parts (Book)](https://www.amazon.nl/-/en/Neal-Ford/dp/1492086894/ref=pd_bxgy_sccl_1/258-5768044-3845304?pd_rd_w=4dXJq&content-id=amzn1.sym.6415097d-50a3-4f00-aaa2-f81d42baf2cb&pf_rd_p=6415097d-50a3-4f00-aaa2-f81d42baf2cb&pf_rd_r=WA5QNPNSGYRVYGC5V042&pd_rd_wg=xypY2&pd_rd_r=000810e8-c8a4-49de-b9c2-b50b26f776e0&pd_rd_i=1492086894&psc=1)
 - [Building Microservices: Designing Fine-Grained Systems (Book)](https://www.amazon.nl/-/en/Sam-Newman/dp/1492034029/ref=pd_bxgy_sccl_2/258-5768044-3845304?pd_rd_w=4dXJq&content-id=amzn1.sym.6415097d-50a3-4f00-aaa2-f81d42baf2cb&pf_rd_p=6415097d-50a3-4f00-aaa2-f81d42baf2cb&pf_rd_r=WA5QNPNSGYRVYGC5V042&pd_rd_wg=xypY2&pd_rd_r=000810e8-c8a4-49de-b9c2-b50b26f776e0&pd_rd_i=1492034029&psc=1)
-- [кабанчик](https://www.amazon.nl/-/en/Martin-Kleppmann/dp/1449373321/ref=d_pd_sbs_sccl_2_2/258-5768044-3845304?pd_rd_w=0etWG&content-id=amzn1.sym.57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_p=57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_r=WA5QNPNSGYRVYGC5V042&pd_rd_wg=xypY2&pd_rd_r=000810e8-c8a4-49de-b9c2-b50b26f776e0&pd_rd_i=1449373321&psc=1)
+- [Designing data intensive application](https://www.amazon.nl/-/en/Martin-Kleppmann/dp/1449373321/ref=d_pd_sbs_sccl_2_2/258-5768044-3845304?pd_rd_w=0etWG&content-id=amzn1.sym.57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_p=57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_r=WA5QNPNSGYRVYGC5V042&pd_rd_wg=xypY2&pd_rd_r=000810e8-c8a4-49de-b9c2-b50b26f776e0&pd_rd_i=1449373321&psc=1)
 
 #### Алгебра и аналитическая геометрия
 -  [**Stepik** - **КФУ** - Элементы линейной алгебры и аналитической геометрии](https://stepik.org/lesson/612710/step/1?unit=608093)
@@ -82,7 +82,7 @@ Books:
 - [DeepLearning.AI & Stanford](https://www.coursera.org/specializations/machine-learning-introduction?)
 - [Math for ML](https://www.coursera.org/specializations/mathematics-machine-learning)
 
-### Deep learning
+#### Deep learning
 - [Math for deep learning](https://www.amazon.nl/-/en/Ronald-T-Kneusel/dp/1718501900/ref=sr_1_13?crid=3Q9QZVG9TS38L&keywords=maths+for+computer+science&qid=1696706859&sprefix=maths+for+computer+science%2Caps%2C145&sr=8-13)
 - [Statistics the fun way](https://www.amazon.nl/-/en/Will-Kurt/dp/1593279566/ref=d_pd_sim_sccl_2_3/258-5768044-3845304?pd_rd_w=piMRM&content-id=amzn1.sym.7146ce6d-6491-4ada-b489-1f09925482b2&pf_rd_p=7146ce6d-6491-4ada-b489-1f09925482b2&pf_rd_r=C1K4M531MD95QJJDAVGD&pd_rd_wg=330qk&pd_rd_r=785192d7-525b-44f1-97a3-2aa87de38dee&pd_rd_i=1593279566&psc=1)
 - [Statistics done wrong](https://www.amazon.nl/-/en/Alex-Reinhart/dp/1593276206/ref=pd_bxgy_img_sccl_1/258-5768044-3845304?pd_rd_w=fbIsD&content-id=amzn1.sym.6415097d-50a3-4f00-aaa2-f81d42baf2cb&pf_rd_p=6415097d-50a3-4f00-aaa2-f81d42baf2cb&pf_rd_r=RBVN5R3VT1K3NZS8MYTC&pd_rd_wg=tyuAT&pd_rd_r=9117a90b-fef5-443e-b487-0d6a00441ac9&pd_rd_i=1593276206&psc=1)
