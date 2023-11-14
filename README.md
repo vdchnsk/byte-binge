@@ -92,9 +92,7 @@ Books:
 - https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect
 
 #### Golang
-- [Go Code Review Comments](https://gist.github.com/adamveld12/c0d9f0d5f0e1fba1e551)
-- [Effective Go](https://go.dev/doc/effective_go)
-- [Go tour](https://go.dev/tour/)
+- [GOsling](https://github.com/vladtenlive/gosling)
 
 ## Useful sources:
 - [MIT OpenCourseWare](https://www.youtube.com/c/mitocw/videos)
