@@ -13,7 +13,6 @@
 - [Berkeley CS162 - Operating Systems and system programming](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)
 - [University Of Virginia - Operating Systems in Rust](https://rust-class.org/index.html)
 - [Philipp Oppermann's blog on Writing and OS in Rust](https://os.phil-opp.com/ "Home")
-- [**Stepik** - Операционные системы](https://stepik.org/course/1780/promo)
 
 #### Programming languages theory
 - [CS173 Brown University - Programming Languages](https://www.youtube.com/playlist?list=PL-R-PWkyRREf3Zjk6UFI5mhKt9XuLMC3G)
@@ -26,6 +25,7 @@
 - [How to build a compiler with LLVM and MLIR](https://www.youtube.com/playlist?list=PLlONLmJCfHTo9WYfsoQvwjsa5ZB6hjOG5) 
 - [**CSC** - Дмитрий Булычев (2018)](https://youtube.com/playlist?list=PLlb7e2G7aSpQ4Ym2TWTYyMcfMevxpKoxj)
 - [Языки программирования и компиляторы | CSC | Дмитрий Булычев](https://www.notion.so/CSC-5eb80118c5f54ac8a375dcc9158263f8)
+
 Books:
 - Write Great Code, Volume 1, 2nd Edition: Understanding the Machine
 - Writing an interpreter in go (1st book)
@@ -43,7 +43,6 @@ Books:
 - [How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine](https://www.amazon.nl/How-Computers-Really-Work-Hands/dp/1718500661/ref=d_pd_sim_sccl_2_3/258-5768044-3845304?pd_rd_w=d4w73&content-id=amzn1.sym.b72f5ef5-97e7-422b-928d-efaff6a05c67&pf_rd_p=b72f5ef5-97e7-422b-928d-efaff6a05c67&pf_rd_r=XNSD8XQ8DM7MPSY6KA4K&pd_rd_wg=gqUzf&pd_rd_r=3c05e2ae-0a4d-4e2f-b7ad-7e8d0d6a384f&pd_rd_i=1718500661&psc=1)
 - http://csapp.cs.cmu.edu/3e/home.html
 - [**CSC** - Кирилл Кринки](https://youtube.com/playlist?list=PL-_cKNuVAYAV5FX84ZRvFN2ICTuQWBOJB)
-- [**Stepik** -Введение в архитектуру ЭВМ. Элементы операционных систем.](https://stepik.org/course/253/promo)
 
 #### Software Architecture / System design
 - [Fundamentals of Software Architecture (Book)](https://www.amazon.nl/-/en/Neal-Ford/dp/1492043451/ref=d_pd_sim_sccl_3_17/258-5768044-3845304?pd_rd_w=AKS9G&content-id=amzn1.sym.b72f5ef5-97e7-422b-928d-efaff6a05c67&pf_rd_p=b72f5ef5-97e7-422b-928d-efaff6a05c67&pf_rd_r=AC3X2B12QAYTGE32HQCK&pd_rd_wg=c7Jr7&pd_rd_r=1d45968e-d1a3-45bb-a5fa-f35a054f199f&pd_rd_i=1492043451&psc=1)
@@ -52,27 +51,19 @@ Books:
 - [Designing data intensive application](https://www.amazon.nl/-/en/Martin-Kleppmann/dp/1449373321/ref=d_pd_sbs_sccl_2_2/258-5768044-3845304?pd_rd_w=0etWG&content-id=amzn1.sym.57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_p=57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_r=WA5QNPNSGYRVYGC5V042&pd_rd_wg=xypY2&pd_rd_r=000810e8-c8a4-49de-b9c2-b50b26f776e0&pd_rd_i=1449373321&psc=1)
 
 #### Алгебра и аналитическая геометрия
--  [**Stepik** - **КФУ** - Элементы линейной алгебры и аналитической геометрии](https://stepik.org/lesson/612710/step/1?unit=608093)
 -  [**Math Center in Akademgorodok** - Линейная алгебра и аналитическая геометрия](https://www.youtube.com/playlist?list=PLaX3n04-uUZoTu4DcD2Eqgq-h5wimh_uT)
 -  [**MIT**- Math for CS](https://youtube.com/playlist?list=PLB7540DEDD482705B)
   
 #### Дискретная математика
--  [**Stepik** - Ликбез по дискретной математике](https://stepik.org/course/91/syllabus)
--  [Ликбез по дискретной математике](https://www.notion.so/ea7ff3d0b111413c85f680f6acea0502)
 
 #### Матанализ
--  [**Stepik** - Введение в матанализ](https://stepik.org/course/95/syllabus) 
--  [**Stepik** - Матанализ (ч.1)](https://stepik.org/course/716/promo)
 -  [Математический анализ (1 часть)](https://www.notion.so/1-6e59101477294075b16920a41dbd3273)
--  [**Stepik** - М](https://stepik.org/course/95/syllabus)[атанализ(ч.2)](https://stepik.org/course/711/promo) 
 
 #### Теорвер
--  [**Stepik** - теория вероятностей](https://stepik.org/course/3089/promo)
 
 #### Algorithms and data structures:
 - [**MIT** - Introduction to algorithms](https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [**НОУ "ИНТУИТ”** - Теория алгоритмов](https://youtube.com/playlist?list=PLHqgHyLoh2uTi-AsNoqfwpE1q1IVik6MN)
-- [**Stepik** - Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/promo)
 - [**Alishev** - Агоритмы и структуры данных](https://youtube.com/playlist?list=PLAma_mKffTOT_qpTFv4KdD9DhOAUd5Rqy)
 - [FreeCodeCamp - Big O Notation - Full Course](https://www.notion.so/Big-O-Notation-Full-Course-freeCodeCamp-org-04ba19889fea483799a10ef692a383fd)
 - [FreeCodeCamp - Binary Tree Algorithms for Technical Interviews](https://www.notion.so/Binary-Tree-Algorithms-for-Technical-Interviews-Full-Course-freeCodeCamp-org-da1c69277cab496986755817dcc3b940)
