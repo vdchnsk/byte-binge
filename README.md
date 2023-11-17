@@ -7,12 +7,16 @@
 - [Computer Networking: A top-Down approach 8th edition](http://gaia.cs.umass.edu/kurose_ross/lectures.php)
 - [Networking tutorial - Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
 - [Eli the computer Guy - Networking playlist](https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5)
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/index-wide.html#windows)
 - Networking All-in-One For Dummies (Book)
  
 #### Operating Systems
 - [Berkeley CS162 - Operating Systems and system programming](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)
 - [University Of Virginia - Operating Systems in Rust](https://rust-class.org/index.html)
 - [Philipp Oppermann's blog on Writing and OS in Rust](https://os.phil-opp.com/ "Home")
+- [CS Primer Operating Systems](https://csprimer.com/courses/operating-systems/)
+- [Nand2Tetris](https://www.nand2tetris.org/)
+- [You are the OS Game](https://drfreckles42.itch.io/youre-the-os)
 
 #### Programming languages theory
 - [CS173 Brown University - Programming Languages](https://www.youtube.com/playlist?list=PL-R-PWkyRREf3Zjk6UFI5mhKt9XuLMC3G)
