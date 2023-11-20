@@ -73,6 +73,9 @@ Books:
 - [FreeCodeCamp - Binary Tree Algorithms for Technical Interviews](https://www.notion.so/Binary-Tree-Algorithms-for-Technical-Interviews-Full-Course-freeCodeCamp-org-da1c69277cab496986755817dcc3b940)
 - [Data structure, the fun way](https://www.amazon.nl/-/en/Jeremy-Kubica/dp/1718502605/ref=d_pd_sbs_sccl_2_14/258-5768044-3845304?pd_rd_w=A8LjM&content-id=amzn1.sym.57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_p=57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_r=A3M2E7FM1462BBVQ5T2A&pd_rd_wg=YHApW&pd_rd_r=710f2e66-2242-46e2-90cb-3acbc492f6e3&pd_rd_i=1718502605&psc=1)
 
+#### Data Science
+- [Data Science in Python - DataQuest](https://www.dataquest.io/path/data-scientist/)
+
 #### Machine Learning
 - [DeepLearning.AI & Stanford](https://www.coursera.org/specializations/machine-learning-introduction?)
 - [Math for ML](https://www.coursera.org/specializations/mathematics-machine-learning)
