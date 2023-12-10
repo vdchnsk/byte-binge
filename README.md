@@ -3,17 +3,17 @@
 ---
 #### Computer Networking
 - [FREE CCNA 200-301 // Complete Course // NetworkChuck 2023 + You suck at subnetting](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P) 
-- [The Bits and Bytes of computer networking](https://www.coursera.org/learn/computer-networking)
 - [Computer Networking: A top-Down approach 8th edition](http://gaia.cs.umass.edu/kurose_ross/lectures.php)
 - [Networking tutorial - Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
 - [Eli the computer Guy - Networking playlist](https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5)
+- [The Bits and Bytes of computer networking](https://www.coursera.org/learn/computer-networking)
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/index-wide.html#windows)
 - Networking All-in-One For Dummies (Book)
  
 #### Operating Systems
 - [Berkeley CS162 - Operating Systems and system programming](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)
 - [University Of Virginia - Operating Systems in Rust](https://rust-class.org/index.html)
-- [Philipp Oppermann's blog on Writing and OS in Rust](https://os.phil-opp.com/ "Home")
+- [Philipp Oppermann's blog on Writing an OS in Rust](https://os.phil-opp.com/ "Home")
 - [CS Primer Operating Systems](https://csprimer.com/courses/operating-systems/)
 - [Nand2Tetris](https://www.nand2tetris.org/)
 - [You are the OS Game](https://drfreckles42.itch.io/youre-the-os)
@@ -80,9 +80,9 @@ Books:
 - [Math for ML](https://www.coursera.org/specializations/mathematics-machine-learning)
 
 #### Deep learning
-- [Math for deep learning](https://www.amazon.nl/-/en/Ronald-T-Kneusel/dp/1718501900/ref=sr_1_13?crid=3Q9QZVG9TS38L&keywords=maths+for+computer+science&qid=1696706859&sprefix=maths+for+computer+science%2Caps%2C145&sr=8-13)
-- [Statistics the fun way](https://www.amazon.nl/-/en/Will-Kurt/dp/1593279566/ref=d_pd_sim_sccl_2_3/258-5768044-3845304?pd_rd_w=piMRM&content-id=amzn1.sym.7146ce6d-6491-4ada-b489-1f09925482b2&pf_rd_p=7146ce6d-6491-4ada-b489-1f09925482b2&pf_rd_r=C1K4M531MD95QJJDAVGD&pd_rd_wg=330qk&pd_rd_r=785192d7-525b-44f1-97a3-2aa87de38dee&pd_rd_i=1593279566&psc=1)
-- [Statistics done wrong](https://www.amazon.nl/-/en/Alex-Reinhart/dp/1593276206/ref=pd_bxgy_img_sccl_1/258-5768044-3845304?pd_rd_w=fbIsD&content-id=amzn1.sym.6415097d-50a3-4f00-aaa2-f81d42baf2cb&pf_rd_p=6415097d-50a3-4f00-aaa2-f81d42baf2cb&pf_rd_r=RBVN5R3VT1K3NZS8MYTC&pd_rd_wg=tyuAT&pd_rd_r=9117a90b-fef5-443e-b487-0d6a00441ac9&pd_rd_i=1593276206&psc=1)
+- [Math for deep learning (Book)](https://www.amazon.nl/-/en/Ronald-T-Kneusel/dp/1718501900/ref=sr_1_13?crid=3Q9QZVG9TS38L&keywords=maths+for+computer+science&qid=1696706859&sprefix=maths+for+computer+science%2Caps%2C145&sr=8-13)
+- [Statistics the fun way (Book)](https://www.amazon.nl/-/en/Will-Kurt/dp/1593279566/ref=d_pd_sim_sccl_2_3/258-5768044-3845304?pd_rd_w=piMRM&content-id=amzn1.sym.7146ce6d-6491-4ada-b489-1f09925482b2&pf_rd_p=7146ce6d-6491-4ada-b489-1f09925482b2&pf_rd_r=C1K4M531MD95QJJDAVGD&pd_rd_wg=330qk&pd_rd_r=785192d7-525b-44f1-97a3-2aa87de38dee&pd_rd_i=1593279566&psc=1)
+- [Statistics done wrong (Book)](https://www.amazon.nl/-/en/Alex-Reinhart/dp/1593276206/ref=pd_bxgy_img_sccl_1/258-5768044-3845304?pd_rd_w=fbIsD&content-id=amzn1.sym.6415097d-50a3-4f00-aaa2-f81d42baf2cb&pf_rd_p=6415097d-50a3-4f00-aaa2-f81d42baf2cb&pf_rd_r=RBVN5R3VT1K3NZS8MYTC&pd_rd_wg=tyuAT&pd_rd_r=9117a90b-fef5-443e-b487-0d6a00441ac9&pd_rd_i=1593276206&psc=1)
 
 #### Databases
 - [UC Berkeley CS186: Intro to DB Systems](https://www.youtube.com/playlist?list=PLYp4IGUhNFmw8USiYMJvCUjZe79fvyYge)
