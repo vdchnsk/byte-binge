@@ -31,7 +31,6 @@
 - [Языки программирования и компиляторы | CSC | Дмитрий Булычев](https://www.notion.so/CSC-5eb80118c5f54ac8a375dcc9158263f8)
 
 Books:
-- Write Great Code, Volume 1, 2nd Edition: Understanding the Machine
 - Writing an interpreter in go (1st book)
 - Writing a compiler in go (2st book)
 - [Crafting Interpreters](https://www.amazon.nl/Robert-Nystrom/dp/0990582930/ref=pd_rhf_d_dp_s_pd_crcd_sccl_1_1/258-5768044-3845304?pd_rd_w=jSAnv&content-id=amzn1.sym.90244661-a8e2-4054-b831-3f1fe56474a8&pf_rd_p=90244661-a8e2-4054-b831-3f1fe56474a8&pf_rd_r=N5FQ4V3GZYFKJGYXFMFA&pd_rd_wg=TDsOr&pd_rd_r=7168620e-0671-430e-bd31-2689353f9c0c&pd_rd_i=0990582930&psc=1)
@@ -68,7 +67,6 @@ Books:
 #### Algorithms and data structures:
 - [**MIT** - Introduction to algorithms](https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [**НОУ "ИНТУИТ”** - Теория алгоритмов](https://youtube.com/playlist?list=PLHqgHyLoh2uTi-AsNoqfwpE1q1IVik6MN)
-- [**Alishev** - Агоритмы и структуры данных](https://youtube.com/playlist?list=PLAma_mKffTOT_qpTFv4KdD9DhOAUd5Rqy)
 - [FreeCodeCamp - Big O Notation - Full Course](https://www.notion.so/Big-O-Notation-Full-Course-freeCodeCamp-org-04ba19889fea483799a10ef692a383fd)
 - [FreeCodeCamp - Binary Tree Algorithms for Technical Interviews](https://www.notion.so/Binary-Tree-Algorithms-for-Technical-Interviews-Full-Course-freeCodeCamp-org-da1c69277cab496986755817dcc3b940)
 - [Data structure, the fun way](https://www.amazon.nl/-/en/Jeremy-Kubica/dp/1718502605/ref=d_pd_sbs_sccl_2_14/258-5768044-3845304?pd_rd_w=A8LjM&content-id=amzn1.sym.57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_p=57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_r=A3M2E7FM1462BBVQ5T2A&pd_rd_wg=YHApW&pd_rd_r=710f2e66-2242-46e2-90cb-3acbc492f6e3&pd_rd_i=1718502605&psc=1)
