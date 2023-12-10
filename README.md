@@ -97,7 +97,7 @@ Books:
 - [Web Security for Developers](https://www.amazon.nl/-/en/Malcolm-McDonald/dp/1593279949/ref=d_pd_sim_sccl_1_2/258-5768044-3845304?pd_rd_w=eUkcL&content-id=amzn1.sym.7146ce6d-6491-4ada-b489-1f09925482b2&pf_rd_p=7146ce6d-6491-4ada-b489-1f09925482b2&pf_rd_r=B7H83KSDAVFRHN3SW2RK&pd_rd_wg=37rVh&pd_rd_r=7182e389-ede8-4768-bb89-7b5e4d9e270d&pd_rd_i=1593279949&psc=1)
 
 #### AWS
-- https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect
+- [AWS Cloud Solutions Architect Professional Certificate Course](https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect)
 
 #### Golang
 - [GOsling](https://github.com/vladtenlive/gosling)
