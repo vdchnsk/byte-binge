@@ -29,11 +29,9 @@
 - [How to build a compiler with LLVM and MLIR](https://www.youtube.com/playlist?list=PLlONLmJCfHTo9WYfsoQvwjsa5ZB6hjOG5) 
 - [**CSC** - Дмитрий Булычев (2018)](https://youtube.com/playlist?list=PLlb7e2G7aSpQ4Ym2TWTYyMcfMevxpKoxj)
 - [Языки программирования и компиляторы | CSC | Дмитрий Булычев](https://www.notion.so/CSC-5eb80118c5f54ac8a375dcc9158263f8)
-
-Books:
-- Writing an interpreter in go (1st book)
-- Writing a compiler in go (2st book)
-- [Crafting Interpreters](https://www.amazon.nl/Robert-Nystrom/dp/0990582930/ref=pd_rhf_d_dp_s_pd_crcd_sccl_1_1/258-5768044-3845304?pd_rd_w=jSAnv&content-id=amzn1.sym.90244661-a8e2-4054-b831-3f1fe56474a8&pf_rd_p=90244661-a8e2-4054-b831-3f1fe56474a8&pf_rd_r=N5FQ4V3GZYFKJGYXFMFA&pd_rd_wg=TDsOr&pd_rd_r=7168620e-0671-430e-bd31-2689353f9c0c&pd_rd_i=0990582930&psc=1)
+- Writing an interpreter in go (Book)
+- Writing a compiler in go (Book)
+- [Crafting Interpreters (Book)](https://www.amazon.nl/Robert-Nystrom/dp/0990582930/ref=pd_rhf_d_dp_s_pd_crcd_sccl_1_1/258-5768044-3845304?pd_rd_w=jSAnv&content-id=amzn1.sym.90244661-a8e2-4054-b831-3f1fe56474a8&pf_rd_p=90244661-a8e2-4054-b831-3f1fe56474a8&pf_rd_r=N5FQ4V3GZYFKJGYXFMFA&pd_rd_wg=TDsOr&pd_rd_r=7168620e-0671-430e-bd31-2689353f9c0c&pd_rd_i=0990582930&psc=1)
 
 #### Distributed Systems
 - [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos) 
