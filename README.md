@@ -46,11 +46,11 @@
 - [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills/home/week/4)
 - [Data Science in Python - DataQuest](https://www.dataquest.io/path/data-scientist/)
 
-#### Data Science -> Machine Learning
+#### Machine Learning
 - [DeepLearning.AI & Stanford](https://www.coursera.org/specializations/machine-learning-introduction?)
 - [Math for ML](https://www.coursera.org/specializations/mathematics-machine-learning)
 
-#### Data Science -> Deep learning
+#### Deep learning
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [Math for deep learning (Book)](https://www.amazon.nl/-/en/Ronald-T-Kneusel/dp/1718501900/ref=sr_1_13?crid=3Q9QZVG9TS38L&keywords=maths+for+computer+science&qid=1696706859&sprefix=maths+for+computer+science%2Caps%2C145&sr=8-13)
 - [Statistics the fun way (Book)](https://www.amazon.nl/-/en/Will-Kurt/dp/1593279566/ref=d_pd_sim_sccl_2_3/258-5768044-3845304?pd_rd_w=piMRM&content-id=amzn1.sym.7146ce6d-6491-4ada-b489-1f09925482b2&pf_rd_p=7146ce6d-6491-4ada-b489-1f09925482b2&pf_rd_r=C1K4M531MD95QJJDAVGD&pd_rd_wg=330qk&pd_rd_r=785192d7-525b-44f1-97a3-2aa87de38dee&pd_rd_i=1593279566&psc=1)
