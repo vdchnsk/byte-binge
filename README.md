@@ -1,7 +1,7 @@
 # 💾 Byte binge roadmap
 #### Computer Science courses and books
 
-Pull-requests and issues are welcome!
+Pull-requests and gh-issues are welcome!
 
 ---
 
