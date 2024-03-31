@@ -78,18 +78,20 @@
 - [Building Microservices: Designing Fine-Grained Systems (Book)](https://www.amazon.nl/-/en/Sam-Newman/dp/1492034029/ref=pd_bxgy_sccl_2/258-5768044-3845304?pd_rd_w=4dXJq&content-id=amzn1.sym.6415097d-50a3-4f00-aaa2-f81d42baf2cb&pf_rd_p=6415097d-50a3-4f00-aaa2-f81d42baf2cb&pf_rd_r=WA5QNPNSGYRVYGC5V042&pd_rd_wg=xypY2&pd_rd_r=000810e8-c8a4-49de-b9c2-b50b26f776e0&pd_rd_i=1492034029&psc=1)
 - [Designing data intensive application](https://www.amazon.nl/-/en/Martin-Kleppmann/dp/1449373321/ref=d_pd_sbs_sccl_2_2/258-5768044-3845304?pd_rd_w=0etWG&content-id=amzn1.sym.57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_p=57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_r=WA5QNPNSGYRVYGC5V042&pd_rd_wg=xypY2&pd_rd_r=000810e8-c8a4-49de-b9c2-b50b26f776e0&pd_rd_i=1449373321&psc=1)
 
-#### Алгебра и аналитическая геометрия
+#### Algebra and Analytic Geometry
 - [MIT 18.06SC Linear Algebra](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 - [ML linear algebra](https://www.coursera.org/learn/machine-learning-linear-algebra)
 - [Math Center in Akademgorodok- Линейная алгебра и аналитическая геометрия](https://www.youtube.com/playlist?list=PLaX3n04-uUZoTu4DcD2Eqgq-h5wimh_uT)
 - [MIT- Math for CS](https://youtube.com/playlist?list=PLB7540DEDD482705B)
 
-#### Дискретная математика
+#### Discrete Math
+- TODO
 
-#### Матанализ
--  [Математический анализ (1 часть)](https://www.notion.so/1-6e59101477294075b16920a41dbd3273)
+#### Calculus
+-  TODO
 
-#### Теорвер
+#### Statistics, probability theory
+- TODO
 
 #### Algorithms and data structures:
 - [**MIT** - Introduction to algorithms](https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
@@ -108,7 +110,6 @@
 
 #### Golang
 - [GOsling](https://github.com/vladtenlive/gosling)
-
 
 
 
