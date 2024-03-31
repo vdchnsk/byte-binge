@@ -1,5 +1,8 @@
 # 💾 Byte binge roadmap
 #### Computer Science courses and books
+
+Pull-requests and issues are welcome!
+
 ---
 
 #### Operating Systems
