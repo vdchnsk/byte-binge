@@ -1,5 +1,6 @@
-# 💾 Byte binge roadmap
-#### Computer Science courses and books
+## 💾 Byte binge roadmap
+
+This repo lists links to great books and Computer Science courses given by the best universities in the world 
 
 Pull-requests and gh-issues are welcome!
 
