@@ -1,6 +1,6 @@
 ## 💾 Byte binge roadmap
 
-This repo lists links to great books and open Computer Science courses given by the best universities in the world 
+This repo lists links to great books and open Computer Science courses taught by the best universities in the world and highly talanted individuals
 
 Pull-requests and gh-issues are welcome!
 
