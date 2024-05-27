@@ -27,9 +27,6 @@ Pull-requests and gh-issues are welcome!
 - [Nicolas Laurent - Compilers](https://www.youtube.com/playlist?list=PLOech0kWpH8-njQpmSNGSiQBPUvl8v3IM)
 - [Compiler Design](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q)
 - [How to build a compiler with LLVM and MLIR](https://www.youtube.com/playlist?list=PLlONLmJCfHTo9WYfsoQvwjsa5ZB6hjOG5) 
-- [Computer Science Center - Дмитрий Булычев (2018)](https://youtube.com/playlist?list=PLlb7e2G7aSpQ4Ym2TWTYyMcfMevxpKoxj)
-- [Computer Science Center - Дмитрий Булычев - Языки программирования и компиляторы](https://www.notion.so/CSC-5eb80118c5f54ac8a375dcc9158263f8)
-- [ИТМО - s5(2022) - Теория типов](https://www.youtube.com/playlist?list=PLd7QXkfmSY7bHlfFLrWBgpwEQPXni92w6)
 - Writing an interpreter in go (Book)
 - Writing a compiler in go (Book)
 - [Crafting Interpreters (Book)](https://www.amazon.nl/Robert-Nystrom/dp/0990582930/ref=pd_rhf_d_dp_s_pd_crcd_sccl_1_1/258-5768044-3845304?pd_rd_w=jSAnv&content-id=amzn1.sym.90244661-a8e2-4054-b831-3f1fe56474a8&pf_rd_p=90244661-a8e2-4054-b831-3f1fe56474a8&pf_rd_r=N5FQ4V3GZYFKJGYXFMFA&pd_rd_wg=TDsOr&pd_rd_r=7168620e-0671-430e-bd31-2689353f9c0c&pd_rd_i=0990582930&psc=1)
@@ -76,7 +73,6 @@ Pull-requests and gh-issues are welcome!
 - [Computer Architecture](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f16/www/schedule.html)
 - [How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine (Book)](https://www.amazon.nl/How-Computers-Really-Work-Hands/dp/1718500661/ref=d_pd_sim_sccl_2_3/258-5768044-3845304?pd_rd_w=d4w73&content-id=amzn1.sym.b72f5ef5-97e7-422b-928d-efaff6a05c67&pf_rd_p=b72f5ef5-97e7-422b-928d-efaff6a05c67&pf_rd_r=XNSD8XQ8DM7MPSY6KA4K&pd_rd_wg=gqUzf&pd_rd_r=3c05e2ae-0a4d-4e2f-b7ad-7e8d0d6a384f&pd_rd_i=1718500661&psc=1)
 - http://csapp.cs.cmu.edu/3e/home.html
-- [Computer Science Center - Кирилл Кринки](https://youtube.com/playlist?list=PL-_cKNuVAYAV5FX84ZRvFN2ICTuQWBOJB)
 
 #### Software Architecture / System design
 - [Fundamentals of Software Architecture (Book)](https://www.amazon.nl/-/en/Neal-Ford/dp/1492043451/ref=d_pd_sim_sccl_3_17/258-5768044-3845304?pd_rd_w=AKS9G&content-id=amzn1.sym.b72f5ef5-97e7-422b-928d-efaff6a05c67&pf_rd_p=b72f5ef5-97e7-422b-928d-efaff6a05c67&pf_rd_r=AC3X2B12QAYTGE32HQCK&pd_rd_wg=c7Jr7&pd_rd_r=1d45968e-d1a3-45bb-a5fa-f35a054f199f&pd_rd_i=1492043451&psc=1)
@@ -125,4 +121,3 @@ Pull-requests and gh-issues are welcome!
 - [Harvard CS50](https://www.youtube.com/c/cs50/videos)
 - [Yale Courses](https://www.youtube.com/@YaleCourses/playlists)
 - [CSC Official](https://compscicenter.ru/online/)
-- [Лекторий CSC](https://www.lektorium.tv/university/2932)
