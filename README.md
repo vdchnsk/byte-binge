@@ -121,4 +121,3 @@ Pull-requests and gh-issues are welcome!
 - [MIT OpenCourseWare](https://www.youtube.com/c/mitocw/videos)
 - [Harvard CS50](https://www.youtube.com/c/cs50/videos)
 - [Yale Courses](https://www.youtube.com/@YaleCourses/playlists)
-- [CSC Official](https://compscicenter.ru/online/)
