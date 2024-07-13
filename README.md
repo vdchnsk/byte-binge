@@ -20,7 +20,8 @@ Pull-requests and gh-issues are welcome!
 #### Programming languages theory
 - [Brown University - CS173 - Programming Languages](https://www.youtube.com/playlist?list=PL-R-PWkyRREf3Zjk6UFI5mhKt9XuLMC3G)
 - [Stanford - Compilers](https://www.youtube.com/playlist?list=PLTsf9UeqkRebOYdw4uqSN0ugRShSmHrzH)
-- [MIT - 6.035 - Computer Language Engineering, Fall 2005](https://www.youtube.com/playlist?list=PL0300FE43396456C1) 
+- [MIT - 6.035 - Computer Language Engineering, Fall 2005](https://www.youtube.com/playlist?list=PL0300FE43396456C1)
+- [Arizona State University - CSE340 F16 - Principles of Programming Langues](https://www.youtube.com/playlist?list=PLK06XT3hFPzj4H_-sK-_5rfi4tpCbgdYe)
 - [Building a compiler in C#](https://www.youtube.com/playlist?list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y)
 - [Static Program Analyses](https://www.youtube.com/playlist?list=PLC-dUCVQghfdu7AG5f_p4oRyKgjDuoAWU)
 - [Ghassan Shobaki Computer Science Lectures - Compilers](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i)
@@ -104,6 +105,7 @@ Pull-requests and gh-issues are welcome!
 
 #### Sybersecurity
 - [MIT - 6.858 - Computer Systems Security](https://www.youtube.com/watch?v=QOtA76ga_fY&list=PLBMO3ORTdwldCqlHVcbJSOa3GxLS6bpeE&index=1)
+- [Arizona State University - CSE545 S17 - Software Security](https://www.youtube.com/playlist?list=PLK06XT3hFPzhlF2DgCa40kYqov6kPuJDR)
 - https://pwn.college/
 - https://web.stanford.edu/class/cs253/
 - [How Cybersecurity really works(Book)](https://www.amazon.nl/-/en/Sam-Grubb/dp/1718501285/ref=d_pd_sbs_sccl_2_12/258-5768044-3845304?pd_rd_w=A8LjM&content-id=amzn1.sym.57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_p=57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_r=A3M2E7FM1462BBVQ5T2A&pd_rd_wg=YHApW&pd_rd_r=710f2e66-2242-46e2-90cb-3acbc492f6e3&pd_rd_i=1718501285&psc=1)
@@ -114,8 +116,6 @@ Pull-requests and gh-issues are welcome!
 
 #### Golang
 - [GOsling](https://github.com/vladtenlive/gosling)
-
-
 
 ## Useful sources:
 - [MIT OpenCourseWare](https://www.youtube.com/c/mitocw/videos)
