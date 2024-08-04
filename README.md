@@ -65,7 +65,8 @@ Pull-requests and gh-issues are welcome!
 - [Berkeley - CS186 - Intro to DB Systems](https://www.youtube.com/playlist?list=PLYp4IGUhNFmw8USiYMJvCUjZe79fvyYge)
 
 #### Distributed Systems
-- [MIT - 6.824 - Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos) 
+- [MIT - 6.824 - Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos)
+- [Distributed Systems lecture series from Martin Kleppmann (author of "Designing Data-intensive Applications")](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 
 #### Computer Graphics
 - [Computer Graphics from Scratch: A Programmer's Introduction to 3D Rendering (Book)](https://www.amazon.nl/Computer-Graphics-Scratch-Programmers-Introduction/dp/1718500769/ref=d_pd_sbs_sccl_1_3/258-5768044-3845304?pd_rd_w=GPdBx&content-id=amzn1.sym.c41a8b3f-0a24-4a0a-bc5f-4f6f6c01ae9c&pf_rd_p=c41a8b3f-0a24-4a0a-bc5f-4f6f6c01ae9c&pf_rd_r=KQ8BZJ5GZCSNJRZAXGMD&pd_rd_wg=HqbSP&pd_rd_r=45fd9ad8-42cc-4ac4-a79c-f2a1a6193c1f&pd_rd_i=1718500769&psc=1)
