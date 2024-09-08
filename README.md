@@ -39,8 +39,8 @@ Pull-requests and gh-issues are welcome!
 - [NetworkChuck - FREE CCNA 200-301 + You suck at subnetting](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P) 
 - [Computer Networking: A top-Down approach 8th edition](http://gaia.cs.umass.edu/kurose_ross/lectures.php)
 - [Ben Eater - Networking tutorial](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
+- [Game Networking Resources](https://github.com/ThusSpokeNomad/GameNetworkingResources)
 - [Eli the computer Guy - Networking](https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5)
-- [Goolge - The Bits and Bytes of computer networking](https://www.coursera.org/learn/computer-networking)
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/index-wide.html#windows)
 - Networking All-in-One For Dummies (Book)
 
@@ -74,9 +74,9 @@ Pull-requests and gh-issues are welcome!
 
 #### Computer Architecture
 - [Berkeley - CS61C - Great Ideas in Computer Architecture](https://www.youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
-- [Computer Architecture](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f16/www/schedule.html)
+- [Carniege Mellon Univesity - Computer Architecture](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f16/www/schedule.html)
 - [How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine (Book)](https://www.amazon.nl/How-Computers-Really-Work-Hands/dp/1718500661/ref=d_pd_sim_sccl_2_3/258-5768044-3845304?pd_rd_w=d4w73&content-id=amzn1.sym.b72f5ef5-97e7-422b-928d-efaff6a05c67&pf_rd_p=b72f5ef5-97e7-422b-928d-efaff6a05c67&pf_rd_r=XNSD8XQ8DM7MPSY6KA4K&pd_rd_wg=gqUzf&pd_rd_r=3c05e2ae-0a4d-4e2f-b7ad-7e8d0d6a384f&pd_rd_i=1718500661&psc=1)
-- http://csapp.cs.cmu.edu/3e/home.html
+- [Computer Systems: A Programmer's Perspective(Book)](http://csapp.cs.cmu.edu/3e/home.html)
 
 #### Software Architecture / System design
 - [Fundamentals of Software Architecture (Book)](https://www.amazon.nl/-/en/Neal-Ford/dp/1492043451/ref=d_pd_sim_sccl_3_17/258-5768044-3845304?pd_rd_w=AKS9G&content-id=amzn1.sym.b72f5ef5-97e7-422b-928d-efaff6a05c67&pf_rd_p=b72f5ef5-97e7-422b-928d-efaff6a05c67&pf_rd_r=AC3X2B12QAYTGE32HQCK&pd_rd_wg=c7Jr7&pd_rd_r=1d45968e-d1a3-45bb-a5fa-f35a054f199f&pd_rd_i=1492043451&psc=1)
@@ -107,9 +107,9 @@ Pull-requests and gh-issues are welcome!
 
 #### Sybersecurity
 - [MIT - 6.858 - Computer Systems Security](https://www.youtube.com/watch?v=QOtA76ga_fY&list=PLBMO3ORTdwldCqlHVcbJSOa3GxLS6bpeE&index=1)
+- [Stanford - CS253 - Web Security](https://web.stanford.edu/class/cs253)
 - [Arizona State University - CSE545 S17 - Software Security](https://www.youtube.com/playlist?list=PLK06XT3hFPzhlF2DgCa40kYqov6kPuJDR)
-- https://pwn.college/
-- https://web.stanford.edu/class/cs253/
+- [pwn.college](https://pwn.college)
 - [How Cybersecurity really works(Book)](https://www.amazon.nl/-/en/Sam-Grubb/dp/1718501285/ref=d_pd_sbs_sccl_2_12/258-5768044-3845304?pd_rd_w=A8LjM&content-id=amzn1.sym.57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_p=57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_r=A3M2E7FM1462BBVQ5T2A&pd_rd_wg=YHApW&pd_rd_r=710f2e66-2242-46e2-90cb-3acbc492f6e3&pd_rd_i=1718501285&psc=1)
 - [Web Security for Developers(Book)](https://www.amazon.nl/-/en/Malcolm-McDonald/dp/1593279949/ref=d_pd_sim_sccl_1_2/258-5768044-3845304?pd_rd_w=eUkcL&content-id=amzn1.sym.7146ce6d-6491-4ada-b489-1f09925482b2&pf_rd_p=7146ce6d-6491-4ada-b489-1f09925482b2&pf_rd_r=B7H83KSDAVFRHN3SW2RK&pd_rd_wg=37rVh&pd_rd_r=7182e389-ede8-4768-bb89-7b5e4d9e270d&pd_rd_i=1593279949&psc=1)
 
