@@ -16,6 +16,7 @@ Pull-requests and gh-issues are welcome!
 - [CS Primer - Operating Systems](https://csprimer.com/courses/operating-systems/)
 - [Nand2Tetris](https://www.nand2tetris.org/)
 - [You are the OS Game](https://drfreckles42.itch.io/youre-the-os)
+- [Operating Systems: Three Easy pieces (Book)](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 #### Programming languages theory
 - [Brown University - CS173 - Programming Languages](https://www.youtube.com/playlist?list=PL-R-PWkyRREf3Zjk6UFI5mhKt9XuLMC3G)
