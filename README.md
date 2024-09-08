@@ -64,6 +64,8 @@ Pull-requests and gh-issues are welcome!
 
 #### Databases
 - [Berkeley - CS186 - Intro to DB Systems](https://www.youtube.com/playlist?list=PLYp4IGUhNFmw8USiYMJvCUjZe79fvyYge)
+- [Carnegie Mellon University - Intro to Database Systems (Fall 2024)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYDBpQnSymaectKjxCy6BYq)
+- [Carnegie Mellon University - Advanced Database Systems (Spring 2024)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYa_zX-KeMJui7pcN1rIaIJ)
 
 #### Distributed Systems
 - [MIT - 6.824 - Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos)
