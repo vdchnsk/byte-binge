@@ -14,7 +14,6 @@ Pull-requests and gh-issues are welcome!
 - [University of Massachusetts - CS377(Spring 2014) - Operating Systems](https://www.youtube.com/playlist?list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k)
 - [Philipp Oppermann's blog on Writing an OS in Rust](https://os.phil-opp.com/ "Home")
 - [CS Primer - Operating Systems](https://csprimer.com/courses/operating-systems/)
-- [Nand2Tetris](https://www.nand2tetris.org/)
 - [You are the OS Game](https://drfreckles42.itch.io/youre-the-os)
 - [Operating Systems: Three Easy pieces (Book)](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
@@ -125,3 +124,4 @@ Pull-requests and gh-issues are welcome!
 - [MIT OpenCourseWare](https://www.youtube.com/c/mitocw/videos)
 - [Harvard CS50](https://www.youtube.com/c/cs50/videos)
 - [Yale Courses](https://www.youtube.com/@YaleCourses/playlists)
+- [Nand2Tetris: building modern computers from first principles](https://www.nand2tetris.org/)
