@@ -20,18 +20,19 @@ Pull-requests and gh-issues are welcome!
 #### Programming languages theory
 - [Brown University - CS173 - Programming Languages](https://www.youtube.com/playlist?list=PL-R-PWkyRREf3Zjk6UFI5mhKt9XuLMC3G)
 - [Stanford - Compilers](https://www.youtube.com/playlist?list=PLTsf9UeqkRebOYdw4uqSN0ugRShSmHrzH)
+- [California State University - CSC151 - Compiler Construction](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i)
 - [MIT - 6.035 - Computer Language Engineering, Fall 2005](https://www.youtube.com/playlist?list=PL0300FE43396456C1)
 - [Arizona State University - CSE340 F16 - Principles of Programming Langues](https://www.youtube.com/playlist?list=PLK06XT3hFPzj4H_-sK-_5rfi4tpCbgdYe)
 - [Building a compiler in C#](https://www.youtube.com/playlist?list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y)
-- [Static Program Analyses](https://www.youtube.com/playlist?list=PLC-dUCVQghfdu7AG5f_p4oRyKgjDuoAWU)
-- [Ghassan Shobaki Computer Science Lectures - Compilers](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i)
 - [Nicolas Laurent - Compilers](https://www.youtube.com/playlist?list=PLOech0kWpH8-njQpmSNGSiQBPUvl8v3IM)
+- [Static Program Analyses](https://www.youtube.com/playlist?list=PLC-dUCVQghfdu7AG5f_p4oRyKgjDuoAWU)
 - [Compiler Design](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q)
 - [How to build a compiler with LLVM and MLIR](https://www.youtube.com/playlist?list=PLlONLmJCfHTo9WYfsoQvwjsa5ZB6hjOG5)
 - [Structure and Interpretation of Computer Programs (Book)](https://web.mit.edu/6.001/6.037/sicp.pdf)
 - Writing an interpreter in go (Book)
 - Writing a compiler in go (Book)
 - [Crafting Interpreters (Book)](https://www.amazon.nl/Robert-Nystrom/dp/0990582930/ref=pd_rhf_d_dp_s_pd_crcd_sccl_1_1/258-5768044-3845304?pd_rd_w=jSAnv&content-id=amzn1.sym.90244661-a8e2-4054-b831-3f1fe56474a8&pf_rd_p=90244661-a8e2-4054-b831-3f1fe56474a8&pf_rd_r=N5FQ4V3GZYFKJGYXFMFA&pd_rd_wg=TDsOr&pd_rd_r=7168620e-0671-430e-bd31-2689353f9c0c&pd_rd_i=0990582930&psc=1)
+- [Writing a C Compiler (Book)](https://www.amazon.nl/-/en/Nora-Sandler/dp/1718500424/?_encoding=UTF8&pd_rd_w=kcbN7&content-id=amzn1.sym.b44d791c-736d-47a4-b7a9-e03621e387e2%3Aamzn1.symc.adb93342-6ac2-461a-9cdb-1d06116dc6f6&pf_rd_p=b44d791c-736d-47a4-b7a9-e03621e387e2&pf_rd_r=JNXDZ1PC350WH1M7C5FW&pd_rd_wg=oE8j7&pd_rd_r=e51b2158-484e-4312-87e0-e0f4ad8f44b3&ref_=pd_hp_d_atf_ci_mcx_mr_ca_hp_atf_d)
 
 
 #### Computer Networking
