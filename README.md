@@ -120,6 +120,7 @@ Pull-requests and gh-issues are welcome!
 
 #### Golang
 - [GOsling](https://github.com/vladtenlive/gosling)
+- [Matt Holiday's Go Class](https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6)
 
 ## Useful sources:
 - [MIT OpenCourseWare](https://www.youtube.com/c/mitocw/videos)
