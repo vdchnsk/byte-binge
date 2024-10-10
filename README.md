@@ -58,6 +58,7 @@ Pull-requests and gh-issues are welcome!
 
 #### Deep learning
 - [MIT - 6.S191 - Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville (Book)](https://www.deeplearningbook.org/)
 - [Math for deep learning (Book)](https://www.amazon.nl/-/en/Ronald-T-Kneusel/dp/1718501900/ref=sr_1_13?crid=3Q9QZVG9TS38L&keywords=maths+for+computer+science&qid=1696706859&sprefix=maths+for+computer+science%2Caps%2C145&sr=8-13)
 - [Statistics the fun way (Book)](https://www.amazon.nl/-/en/Will-Kurt/dp/1593279566/ref=d_pd_sim_sccl_2_3/258-5768044-3845304?pd_rd_w=piMRM&content-id=amzn1.sym.7146ce6d-6491-4ada-b489-1f09925482b2&pf_rd_p=7146ce6d-6491-4ada-b489-1f09925482b2&pf_rd_r=C1K4M531MD95QJJDAVGD&pd_rd_wg=330qk&pd_rd_r=785192d7-525b-44f1-97a3-2aa87de38dee&pd_rd_i=1593279566&psc=1)
 - [Statistics done wrong (Book)](https://www.amazon.nl/-/en/Alex-Reinhart/dp/1593276206/ref=pd_bxgy_img_sccl_1/258-5768044-3845304?pd_rd_w=fbIsD&content-id=amzn1.sym.6415097d-50a3-4f00-aaa2-f81d42baf2cb&pf_rd_p=6415097d-50a3-4f00-aaa2-f81d42baf2cb&pf_rd_r=RBVN5R3VT1K3NZS8MYTC&pd_rd_wg=tyuAT&pd_rd_r=9117a90b-fef5-443e-b487-0d6a00441ac9&pd_rd_i=1593276206&psc=1)
