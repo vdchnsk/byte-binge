@@ -44,20 +44,16 @@ Pull-requests and gh-issues are welcome!
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/index-wide.html#windows)
 - Networking All-in-One For Dummies (Book)
 
-#### Data Science
+#### AI
 - [Stanford - CS231n(Spring 2017)](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 - [Berkeley - CS188 - Introduction to Artificial Intelligence, Fall 2018](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)
-- [Duke University - Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills/home/week/4)
-- [Data Science in Python - DataQuest](https://www.dataquest.io/path/data-scientist/)
-
-#### Machine Learning
-- [The Coding Train - Neural Networks](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh)
-- [DeepLearning.AI & Stanford - Machine Learning Introduction](https://www.coursera.org/specializations/machine-learning-introduction?)
-- [Andrej Karpathy - Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
-- [Math for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
-
-#### Deep learning
 - [MIT - 6.S191 - Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [Andrej Karpathy - Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+- [The Coding Train - Neural Networks](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh)
+- [Duke University - Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills/home/week/4)
+- [DeepLearning.AI & Stanford - Machine Learning Introduction](https://www.coursera.org/specializations/machine-learning-introduction?)
+- [Data Science in Python - DataQuest](https://www.dataquest.io/path/data-scientist/)
+- [Math for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville (Book)](https://www.deeplearningbook.org/)
 - [Math for deep learning (Book)](https://www.amazon.nl/-/en/Ronald-T-Kneusel/dp/1718501900/ref=sr_1_13?crid=3Q9QZVG9TS38L&keywords=maths+for+computer+science&qid=1696706859&sprefix=maths+for+computer+science%2Caps%2C145&sr=8-13)
 - [Statistics the fun way (Book)](https://www.amazon.nl/-/en/Will-Kurt/dp/1593279566/ref=d_pd_sim_sccl_2_3/258-5768044-3845304?pd_rd_w=piMRM&content-id=amzn1.sym.7146ce6d-6491-4ada-b489-1f09925482b2&pf_rd_p=7146ce6d-6491-4ada-b489-1f09925482b2&pf_rd_r=C1K4M531MD95QJJDAVGD&pd_rd_wg=330qk&pd_rd_r=785192d7-525b-44f1-97a3-2aa87de38dee&pd_rd_i=1593279566&psc=1)
