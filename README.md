@@ -53,6 +53,7 @@ Pull-requests and gh-issues are welcome!
 - [Duke University - Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills/home/week/4)
 - [DeepLearning.AI & Stanford - Machine Learning Introduction](https://www.coursera.org/specializations/machine-learning-introduction?)
 - [Data Science in Python - DataQuest](https://www.dataquest.io/path/data-scientist/)
+- [Federal Institute of Technology Zurich - Spring 2021 - Mathematics of Machine Learning](https://www.youtube.com/playlist?list=PLiud-28tsatL0MbfJFQQS7MYkrFrujCYp)
 - [Math for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville (Book)](https://www.deeplearningbook.org/)
 - [Math for deep learning (Book)](https://www.amazon.nl/-/en/Ronald-T-Kneusel/dp/1718501900/ref=sr_1_13?crid=3Q9QZVG9TS38L&keywords=maths+for+computer+science&qid=1696706859&sprefix=maths+for+computer+science%2Caps%2C145&sr=8-13)
