@@ -54,6 +54,8 @@ Pull-requests and gh-issues are welcome!
 - [DeepLearning.AI & Stanford - Machine Learning Introduction](https://www.coursera.org/specializations/machine-learning-introduction?)
 - [Data Science in Python - DataQuest](https://www.dataquest.io/path/data-scientist/)
 - [Federal Institute of Technology Zurich - Spring 2021 - Mathematics of Machine Learning](https://www.youtube.com/playlist?list=PLiud-28tsatL0MbfJFQQS7MYkrFrujCYp)
+- [Imperial College London - Mathematics for ML - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
+- [Imperial College London - Mathematics for ML - Multivariate Calculus](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
 - [Math for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville (Book)](https://www.deeplearningbook.org/)
 - [Math for deep learning (Book)](https://www.amazon.nl/-/en/Ronald-T-Kneusel/dp/1718501900/ref=sr_1_13?crid=3Q9QZVG9TS38L&keywords=maths+for+computer+science&qid=1696706859&sprefix=maths+for+computer+science%2Caps%2C145&sr=8-13)
