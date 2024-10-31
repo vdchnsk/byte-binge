@@ -109,7 +109,7 @@ Pull-requests and gh-issues are welcome!
 - [Harvard - (COMPSCI 224) - Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
 - [Data structure, the fun way (Book)](https://www.amazon.nl/-/en/Jeremy-Kubica/dp/1718502605/ref=d_pd_sbs_sccl_2_14/258-5768044-3845304?pd_rd_w=A8LjM&content-id=amzn1.sym.57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_p=57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_r=A3M2E7FM1462BBVQ5T2A&pd_rd_wg=YHApW&pd_rd_r=710f2e66-2242-46e2-90cb-3acbc492f6e3&pd_rd_i=1718502605&psc=1)
 
-#### Sybersecurity
+#### Cybersecurity
 - [MIT - 6.858 Spring 2020 - Computer Systems Security](https://www.youtube.com/playlist?list=PLvyhBjPyU05rrodFofj_jBEyxFLhKoyeJ)
 - [Stanford - CS253 - Web Security](https://web.stanford.edu/class/cs253)
 - [Arizona State University - CSE545 S17 - Software Security](https://www.youtube.com/playlist?list=PLK06XT3hFPzhlF2DgCa40kYqov6kPuJDR)
