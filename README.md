@@ -45,10 +45,10 @@ Pull-requests and gh-issues are welcome!
 - Networking All-in-One For Dummies (Book)
 
 #### AI
-- [Stanford - CS231n(Spring 2017)](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
-- [Stanford - CS231n(Winter 2016) with Andrej Karpathy](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
-- [Berkeley - CS188 (Fall 2018) - Introduction to Artificial Intelligence](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)
-- [MIT - 6.S191 (Updates every year) - Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [Stanford - CS231n Spring 2017](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+- [Stanford - CS231n Winter 2016 with Andrej Karpathy](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+- [Berkeley - CS188 Fall 2018 - Introduction to Artificial Intelligence](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)
+- [MIT - 6.S191 Updates every year - Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [Andrej Karpathy - Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [The Coding Train - Neural Networks](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh)
 - [Duke University - Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills/home/week/4)
@@ -106,7 +106,7 @@ Pull-requests and gh-issues are welcome!
 #### Data structures and Algorithms:
 - [MIT - Introduction to algorithms](https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [Berkeley - CS 61B - Data Structures](https://www.youtube.com/playlist?list=PLu0nzW8Es1x3TmpwQRLMQwCtulEd43ZY8)
-- [Harvard - (COMPSCI 224) - Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
+- [Harvard - COMPSCI 224 - Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
 - [Data structure, the fun way (Book)](https://www.amazon.nl/-/en/Jeremy-Kubica/dp/1718502605/ref=d_pd_sbs_sccl_2_14/258-5768044-3845304?pd_rd_w=A8LjM&content-id=amzn1.sym.57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_p=57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_r=A3M2E7FM1462BBVQ5T2A&pd_rd_wg=YHApW&pd_rd_r=710f2e66-2242-46e2-90cb-3acbc492f6e3&pd_rd_i=1718502605&psc=1)
 
 #### Cybersecurity
@@ -116,6 +116,9 @@ Pull-requests and gh-issues are welcome!
 - [pwn.college](https://pwn.college)
 - [How Cybersecurity really works(Book)](https://www.amazon.nl/-/en/Sam-Grubb/dp/1718501285/ref=d_pd_sbs_sccl_2_12/258-5768044-3845304?pd_rd_w=A8LjM&content-id=amzn1.sym.57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_p=57990322-a059-4090-a8f5-1e3c1fa70164&pf_rd_r=A3M2E7FM1462BBVQ5T2A&pd_rd_wg=YHApW&pd_rd_r=710f2e66-2242-46e2-90cb-3acbc492f6e3&pd_rd_i=1718501285&psc=1)
 - [Web Security for Developers(Book)](https://www.amazon.nl/-/en/Malcolm-McDonald/dp/1593279949/ref=d_pd_sim_sccl_1_2/258-5768044-3845304?pd_rd_w=eUkcL&content-id=amzn1.sym.7146ce6d-6491-4ada-b489-1f09925482b2&pf_rd_p=7146ce6d-6491-4ada-b489-1f09925482b2&pf_rd_r=B7H83KSDAVFRHN3SW2RK&pd_rd_wg=37rVh&pd_rd_r=7182e389-ede8-4768-bb89-7b5e4d9e270d&pd_rd_i=1593279949&psc=1)
+
+#### Performance Engineering
+- [MIT - 6.172 Fall 2018 - Performance Engineering of Software Systems](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
 
 #### AWS
 - [AWS Cloud Solutions Architect Professional Certificate Course](https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect)
