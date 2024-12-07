@@ -9,7 +9,7 @@ Pull-requests and gh-issues are welcome!
 #### Operating Systems
 - [Berkeley - CS162 - Operating Systems and system programming](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)
 - [University Of Virginia - Operating Systems in Rust](https://rust-class.org/index.html)
-- [MIT 6.S081](https://www.youtube.com/playlist?list=PLTsf9UeqkReZHXWY9yJvTwLJWYYPcKEqK)
+- [MIT 6.S081 - Operating Systems](https://www.youtube.com/playlist?list=PLTsf9UeqkReZHXWY9yJvTwLJWYYPcKEqK)
 - [Bilkent University - CS-342 - Operating Systems](https://www.youtube.com/playlist?list=PLhwVAYxlh5dsX6aOfVMZXS8MwKwBmwVM6)
 - [University of Massachusetts - CS377(Spring 2014) - Operating Systems](https://www.youtube.com/playlist?list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k)
 - [Philipp Oppermann's blog on Writing an OS in Rust](https://os.phil-opp.com/ "Home")
@@ -37,7 +37,7 @@ Pull-requests and gh-issues are welcome!
 
 #### Computer Networking
 - [NetworkChuck - FREE CCNA 200-301 + You suck at subnetting](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P) 
-- [Computer Networking: A top-Down approach 8th edition](http://gaia.cs.umass.edu/kurose_ross/lectures.php)
+- [Jim Kurose - Computer Networking: A top-Down approach 8th edition](http://gaia.cs.umass.edu/kurose_ross/lectures.php)
 - [Ben Eater - Networking tutorial](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
 - [Game Networking Resources](https://github.com/ThusSpokeNomad/GameNetworkingResources)
 - [Eli the computer Guy - Networking](https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5)
@@ -88,6 +88,7 @@ Pull-requests and gh-issues are welcome!
 
 #### Algebra and Analytic Geometry
 - [MIT - 18.06SC - Linear Algebra](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
+- [3B1B - Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [DeepLearning.ai - ML linear algebra](https://www.coursera.org/learn/machine-learning-linear-algebra)
 - [Math Center in Akademgorodok- Линейная алгебра и аналитическая геометрия](https://www.youtube.com/playlist?list=PLaX3n04-uUZoTu4DcD2Eqgq-h5wimh_uT)
 - [MIT- Math for CS](https://youtube.com/playlist?list=PLB7540DEDD482705B)
