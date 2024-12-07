@@ -15,7 +15,7 @@ Pull-requests and gh-issues are welcome!
 - [Philipp Oppermann's blog on Writing an OS in Rust](https://os.phil-opp.com/ "Home")
 - [CS Primer - Operating Systems](https://csprimer.com/courses/operating-systems/)
 - [You are the OS Game](https://drfreckles42.itch.io/youre-the-os)
-- [Operating Systems: Three Easy pieces (Book)](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [University of Wisconsin-Madison - Operating Systems: Three Easy pieces (Book)](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 #### Programming languages theory
 - [Brown University - CS173 - Programming Languages](https://www.youtube.com/playlist?list=PL-R-PWkyRREf3Zjk6UFI5mhKt9XuLMC3G)
@@ -57,8 +57,8 @@ Pull-requests and gh-issues are welcome!
 - [Federal Institute of Technology Zurich - Spring 2021 - Mathematics of Machine Learning](https://www.youtube.com/playlist?list=PLiud-28tsatL0MbfJFQQS7MYkrFrujCYp)
 - [Imperial College London - Mathematics for ML - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 - [Imperial College London - Mathematics for ML - Multivariate Calculus](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
-- [Math for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville (Book)](https://www.deeplearningbook.org/)
+- [Stanford - Mathematics for Machine learning (Book)](https://mml-book.github.io/)
 - [Math for deep learning (Book)](https://www.amazon.nl/-/en/Ronald-T-Kneusel/dp/1718501900/ref=sr_1_13?crid=3Q9QZVG9TS38L&keywords=maths+for+computer+science&qid=1696706859&sprefix=maths+for+computer+science%2Caps%2C145&sr=8-13)
 
 
