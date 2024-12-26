@@ -47,9 +47,10 @@ Pull-requests and gh-issues are welcome!
 #### AI
 - [Stanford - CS231n Spring 2017](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 - [Stanford - CS231n Winter 2016 with Andrej Karpathy](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+- [Andrej Karpathy - Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [Berkeley - CS188 Fall 2018 - Introduction to Artificial Intelligence](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)
 - [MIT - 6.S191 Updates every year - Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
-- [Andrej Karpathy - Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+- [MIT - 6.S094 - Machine Learning with Lex Fridman](https://www.youtube.com/playlist?list=PLRikQ0KFHZQ32XNyXxc5R6mwlXkt_jk3Q)
 - [The Coding Train - Neural Networks](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh)
 - [Duke University - Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills/home/week/4)
 - [DeepLearning.AI & Stanford - Machine Learning Introduction](https://www.coursera.org/specializations/machine-learning-introduction?)
