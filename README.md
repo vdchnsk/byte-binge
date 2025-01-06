@@ -89,6 +89,7 @@ Pull-requests and gh-issues are welcome!
 
 #### Algebra and Analytic Geometry
 - [MIT - 18.06SC - Linear Algebra](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
+- [MIT - Linear Algebra with Gilbert Strang](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
 - [3B1B - Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [DeepLearning.ai - ML linear algebra](https://www.coursera.org/learn/machine-learning-linear-algebra)
 - [Math Center in Akademgorodok- Линейная алгебра и аналитическая геометрия](https://www.youtube.com/playlist?list=PLaX3n04-uUZoTu4DcD2Eqgq-h5wimh_uT)
