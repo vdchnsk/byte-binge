@@ -92,7 +92,6 @@ Pull-requests and gh-issues are welcome!
 - [MIT - 18.06 Spring 2005 - Linear Algebra with Gilbert Strang](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 - [3B1B - Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [DeepLearning.ai - ML linear algebra](https://www.coursera.org/learn/machine-learning-linear-algebra)
-- [Math Center in Akademgorodok- Линейная алгебра и аналитическая геометрия](https://www.youtube.com/playlist?list=PLaX3n04-uUZoTu4DcD2Eqgq-h5wimh_uT)
 - [MIT- Math for CS](https://youtube.com/playlist?list=PLB7540DEDD482705B)
 
 #### Discrete Math
