@@ -23,7 +23,7 @@ Pull-requests and gh-issues are welcome!
 - [California State University - CSC151 - Compiler Construction](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i)
 - [MIT - 6.035 - Computer Language Engineering, Fall 2005](https://www.youtube.com/playlist?list=PL0300FE43396456C1)
 - [Arizona State University - CSE340 F16 - Principles of Programming Langues](https://www.youtube.com/playlist?list=PLK06XT3hFPzj4H_-sK-_5rfi4tpCbgdYe)
-- [Building a compiler in C#](https://www.youtube.com/playlist?list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y)
+- [Building a compiler in C# by Immo Landwerth, C# design team member at Microsoft](https://www.youtube.com/playlist?list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y)
 - [Nicolas Laurent - Compilers](https://www.youtube.com/playlist?list=PLOech0kWpH8-njQpmSNGSiQBPUvl8v3IM)
 - [Static Program Analyses](https://www.youtube.com/playlist?list=PLC-dUCVQghfdu7AG5f_p4oRyKgjDuoAWU)
 - [Compiler Design](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q)
