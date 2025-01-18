@@ -50,6 +50,7 @@ Pull-requests and gh-issues are welcome!
 - [Andrej Karpathy - Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [Stanford - CS229 Fall 2018 - Machine Learning by Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Berkeley - CS188 Fall 2018 - Introduction to Artificial Intelligence](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)
+- [Cornell University - CS4780 - Machine Learning for Decision Making](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 - [MIT - 6.S191 Updates every year - Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [MIT - 6.S094 - Machine Learning with Lex Fridman](https://www.youtube.com/playlist?list=PLRikQ0KFHZQ32XNyXxc5R6mwlXkt_jk3Q)
 - [The Coding Train - Neural Networks](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh)
