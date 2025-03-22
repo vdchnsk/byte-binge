@@ -54,6 +54,7 @@ Pull-requests and gh-issues are welcome!
 - [MIT - 6.S191 Updates every year - Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [MIT - 6.S094 - Machine Learning with Lex Fridman](https://www.youtube.com/playlist?list=PLRikQ0KFHZQ32XNyXxc5R6mwlXkt_jk3Q)
 - [The Coding Train - Neural Networks](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh)
+- [Weights and Bisases - Math for Machine Learning](https://www.youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg)
 - [Duke University - Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills/home/week/4)
 - [DeepLearning.AI & Stanford - Machine Learning Introduction](https://www.coursera.org/specializations/machine-learning-introduction?)
 - [Data Science in Python - DataQuest](https://www.dataquest.io/path/data-scientist/)
