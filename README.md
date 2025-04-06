@@ -136,4 +136,5 @@ Pull-requests and gh-issues are welcome!
 - [MIT OpenCourseWare](https://www.youtube.com/c/mitocw/videos)
 - [Harvard CS50](https://www.youtube.com/c/cs50/videos)
 - [Yale Courses](https://www.youtube.com/@YaleCourses/playlists)
+- [The architecure of open source applications](https://aosabook.org/en/)
 - [Nand2Tetris: building modern computers from first principles](https://www.nand2tetris.org/)
