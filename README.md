@@ -131,6 +131,9 @@ Pull-requests and gh-issues are welcome!
 
 #### Golang
 - [GOsling](https://github.com/vladtenlive/gosling)
+- [Golang Internals Resources](https://github.com/emluque/golang-internals-resources)
+- [Go internals book (only 2 chapters are complete)](https://cmc.gitbook.io/go-internals)
+- [How to learn internals of the Go Programming Language? StackOverflow question](https://stackoverflow.com/questions/49771806/how-to-learn-internals-of-the-go-programming-language)
 - [Matt Holiday's Go Class](https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6)
 
 ## Useful sources:
