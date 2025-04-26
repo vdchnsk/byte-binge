@@ -19,7 +19,6 @@ Pull-requests and gh-issues are welcome!
 
 #### Programming languages theory
 - [Brown University - CS173 - Programming Languages](https://www.youtube.com/playlist?list=PL-R-PWkyRREf3Zjk6UFI5mhKt9XuLMC3G)
-- [Stanford - Compilers](https://www.youtube.com/playlist?list=PLTsf9UeqkRebOYdw4uqSN0ugRShSmHrzH)
 - [California State University - CSC151 - Compiler Construction](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i)
 - [MIT - 6.035 - Computer Language Engineering, Fall 2005](https://www.youtube.com/playlist?list=PL0300FE43396456C1)
 - [Arizona State University - CSE340 F16 - Principles of Programming Languages](https://www.youtube.com/playlist?list=PLK06XT3hFPzj4H_-sK-_5rfi4tpCbgdYe)
@@ -28,6 +27,8 @@ Pull-requests and gh-issues are welcome!
 - [Static Program Analyses](https://www.youtube.com/playlist?list=PLC-dUCVQghfdu7AG5f_p4oRyKgjDuoAWU)
 - [Compiler Design](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q)
 - [How to build a compiler with LLVM and MLIR](https://www.youtube.com/playlist?list=PLlONLmJCfHTo9WYfsoQvwjsa5ZB6hjOG5)
+- [Stanford - Compilers](https://www.youtube.com/playlist?list=PLTsf9UeqkRebOYdw4uqSN0ugRShSmHrzH)
+- [Standford Online - Compilers](https://www.edx.org/learn/computer-science/stanford-university-compilers)
 - [Structure and Interpretation of Computer Programs (Book)](https://web.mit.edu/6.001/6.037/sicp.pdf)
 - Writing an interpreter in go (Book)
 - Writing a compiler in go (Book)
