@@ -82,9 +82,10 @@ Pull-requests and gh-issues are welcome!
 
 #### Computer Architecture
 - [Berkeley - CS61C - Great Ideas in Computer Architecture](https://www.youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
-- [Carniege Mellon Univesity - Computer Architecture](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f16/www/schedule.html)
+- [Carnegie Mellon Univesity - Fall 2016 - Intro To Computer Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f16/www/schedule.html)
+- [Carnegie Mellon University - Computer Architecture](https://www.youtube.com/@CMUCompArch/playlists)
 - [How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine (Book)](https://www.amazon.nl/How-Computers-Really-Work-Hands/dp/1718500661/ref=d_pd_sim_sccl_2_3/258-5768044-3845304?pd_rd_w=d4w73&content-id=amzn1.sym.b72f5ef5-97e7-422b-928d-efaff6a05c67&pf_rd_p=b72f5ef5-97e7-422b-928d-efaff6a05c67&pf_rd_r=XNSD8XQ8DM7MPSY6KA4K&pd_rd_wg=gqUzf&pd_rd_r=3c05e2ae-0a4d-4e2f-b7ad-7e8d0d6a384f&pd_rd_i=1718500661&psc=1)
-- [Computer Systems: A Programmer's Perspective(Book)](http://csapp.cs.cmu.edu/3e/home.html)
+- [Computer Systems: A Programmer's Perspective (Book)](http://csapp.cs.cmu.edu/3e/home.html)
 
 #### Software Architecture / System design
 - [Fundamentals of Software Architecture (Book)](https://www.amazon.nl/-/en/Neal-Ford/dp/1492043451/ref=d_pd_sim_sccl_3_17/258-5768044-3845304?pd_rd_w=AKS9G&content-id=amzn1.sym.b72f5ef5-97e7-422b-928d-efaff6a05c67&pf_rd_p=b72f5ef5-97e7-422b-928d-efaff6a05c67&pf_rd_r=AC3X2B12QAYTGE32HQCK&pd_rd_wg=c7Jr7&pd_rd_r=1d45968e-d1a3-45bb-a5fa-f35a054f199f&pd_rd_i=1492043451&psc=1)
