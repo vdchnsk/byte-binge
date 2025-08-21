@@ -19,6 +19,8 @@ Pull-requests and gh-issues are welcome!
 
 #### Programming languages theory
 - [Brown University - CS173 - Programming Languages](https://www.youtube.com/playlist?list=PL-R-PWkyRREf3Zjk6UFI5mhKt9XuLMC3G)
+- [San Jose State University - CMPE152- Compiler Design, Winter 2021](https://www.cs.sjsu.edu/~mak/archive/CMPE152/index.html)
+- [Cornell University - CS6120 - Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 - [California State University - CSC151 - Compiler Construction](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i)
 - [MIT - 6.035 - Computer Language Engineering, Fall 2005](https://www.youtube.com/playlist?list=PL0300FE43396456C1)
 - [Arizona State University - CSE340 F16 - Principles of Programming Languages](https://www.youtube.com/playlist?list=PLK06XT3hFPzj4H_-sK-_5rfi4tpCbgdYe)
