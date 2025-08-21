@@ -8,7 +8,7 @@ Pull-requests and gh-issues are welcome!
 
 #### Operating Systems
 - [Berkeley - CS162 - Operating Systems and system programming](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)
-- [University Of Virginia - Operating Systems in Rust](https://rust-class.org/index.html)
+- [University Of Virginia - Operating System in Rust](https://rust-class.org/index.html)
 - [MIT 6.S081 - Operating Systems](https://www.youtube.com/playlist?list=PLTsf9UeqkReZHXWY9yJvTwLJWYYPcKEqK)
 - [Bilkent University - CS-342 - Operating Systems](https://www.youtube.com/playlist?list=PLhwVAYxlh5dsX6aOfVMZXS8MwKwBmwVM6)
 - [University of Massachusetts - CS377(Spring 2014) - Operating Systems](https://www.youtube.com/playlist?list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k)
@@ -19,13 +19,13 @@ Pull-requests and gh-issues are welcome!
 
 #### Programming languages theory
 - [Brown University - CS173 - Programming Languages](https://www.youtube.com/playlist?list=PL-R-PWkyRREf3Zjk6UFI5mhKt9XuLMC3G)
-- [San Jose State University - CMPE152- Compiler Design, Winter 2021](https://www.cs.sjsu.edu/~mak/archive/CMPE152/index.html)
+- [San Jose State University - CMPE152 - Compiler Design, Winter 2021](https://www.cs.sjsu.edu/~mak/archive/CMPE152/index.html)
 - [Cornell University - CS6120 - Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
-- [California State University - CSC151 - Compiler Construction](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i)
+- [California State University - CSC151 - Compiler Construction, Fall 2017](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i)
 - [MIT - 6.035 - Computer Language Engineering, Fall 2005](https://www.youtube.com/playlist?list=PL0300FE43396456C1)
-- [Arizona State University - CSE340 F16 - Principles of Programming Languages](https://www.youtube.com/playlist?list=PLK06XT3hFPzj4H_-sK-_5rfi4tpCbgdYe)
+- [Arizona State University - CSE340 F16 - Principles of Programming Languages, Summer 2016](https://www.youtube.com/playlist?list=PLK06XT3hFPzj4H_-sK-_5rfi4tpCbgdYe)
 - [Building a compiler in C# by Immo Landwerth, C# design team member at Microsoft](https://www.youtube.com/playlist?list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y)
-- [Nicolas Laurent - Compilers](https://www.youtube.com/playlist?list=PLOech0kWpH8-njQpmSNGSiQBPUvl8v3IM)
+- [Catholic University of Louvain - LINGI2132 - Languages and Translators](https://www.youtube.com/playlist?list=PLOech0kWpH8-njQpmSNGSiQBPUvl8v3IM)
 - [Static Program Analyses](https://www.youtube.com/playlist?list=PLC-dUCVQghfdu7AG5f_p4oRyKgjDuoAWU)
 - [Compiler Design](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q)
 - [How to build a compiler with LLVM and MLIR](https://www.youtube.com/playlist?list=PLlONLmJCfHTo9WYfsoQvwjsa5ZB6hjOG5)
@@ -36,6 +36,7 @@ Pull-requests and gh-issues are welcome!
 - Writing a compiler in go (Book)
 - [Crafting Interpreters (Book)](https://www.amazon.nl/Robert-Nystrom/dp/0990582930/ref=pd_rhf_d_dp_s_pd_crcd_sccl_1_1/258-5768044-3845304?pd_rd_w=jSAnv&content-id=amzn1.sym.90244661-a8e2-4054-b831-3f1fe56474a8&pf_rd_p=90244661-a8e2-4054-b831-3f1fe56474a8&pf_rd_r=N5FQ4V3GZYFKJGYXFMFA&pd_rd_wg=TDsOr&pd_rd_r=7168620e-0671-430e-bd31-2689353f9c0c&pd_rd_i=0990582930&psc=1)
 - [Writing a C Compiler (Book)](https://www.amazon.nl/-/en/Nora-Sandler/dp/1718500424/?_encoding=UTF8&pd_rd_w=kcbN7&content-id=amzn1.sym.b44d791c-736d-47a4-b7a9-e03621e387e2%3Aamzn1.symc.adb93342-6ac2-461a-9cdb-1d06116dc6f6&pf_rd_p=b44d791c-736d-47a4-b7a9-e03621e387e2&pf_rd_r=JNXDZ1PC350WH1M7C5FW&pd_rd_wg=oE8j7&pd_rd_r=e51b2158-484e-4312-87e0-e0f4ad8f44b3&ref_=pd_hp_d_atf_ci_mcx_mr_ca_hp_atf_d)
+- [ccplinkts -> compilers](https://github.com/MattPD/cpplinks/blob/master/compilers.md#courses)
 
 
 #### Computer Networking
