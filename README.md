@@ -79,6 +79,7 @@ Pull requests and issues are welcome!
 ### Databases
 - [Carnegie Mellon University – Intro to Database Systems (Fall 2024)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYDBpQnSymaectKjxCy6BYq)
 - [Carnegie Mellon University – Advanced Database Systems (Spring 2024)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYa_zX-KeMJui7pcN1rIaIJ)
+- [Carnegie Mellon University – 15-799: Query optimization (Spring 2025)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYCZfIbmEWH7f6MnYqyPwCE)
 - [UC Berkeley – CS186: Introduction to Database Systems](https://www.youtube.com/playlist?list=PLYp4IGUhNFmw8USiYMJvCUjZe79fvyYge)
 
 ---
