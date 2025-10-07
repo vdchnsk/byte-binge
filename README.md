@@ -180,4 +180,5 @@ Pull requests and issues are welcome!
 - [Harvard CS50 (YouTube)](https://www.youtube.com/c/cs50/videos)
 - [Yale University Courses (YouTube)](https://www.youtube.com/@YaleCourses/playlists)
 - [*The Architecture of Open Source Applications* (Book Series)](https://aosabook.org/en/)
+- [Teach yourself Computer Science](https://teachyourselfcs.com/)
 - [*Nand2Tetris*: Building Modern Computers from First Principles](https://www.nand2tetris.org/)
