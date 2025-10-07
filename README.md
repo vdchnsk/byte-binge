@@ -36,6 +36,7 @@ Pull requests and issues are welcome!
 - [MIT – *Structure and Interpretation of Computer Programs* (Book, SICP)](https://web.mit.edu/6.001/6.037/sicp.pdf)
 - [*Writing an Interpreter in Go* (Book)](https://interpreterbook.com/)
 - [*Writing a Compiler in Go* (Book)](https://compilerbook.com/)
+- [Douglas Thain, University of Notre Dame - *Intro to Compilers & Language Design* (Book)](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf)
 - [Robert Nystrom – *Crafting Interpreters* (Book)](https://craftinginterpreters.com/)
 - [Nora Sandler – *Writing a C Compiler* (Book)](https://www.amazon.nl/-/en/Nora-Sandler/dp/1718500424/)
 - [C++ Links – Compilers Resources](https://github.com/MattPD/cpplinks/blob/master/compilers.md#courses)
